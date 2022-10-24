@@ -1,7 +1,9 @@
 ### Hi there 👋
 Name is Aled Canter
-- 🔭 I’m currently working on Sporty Box application
+- 🔭 I’m currently working on Sporty Box application.
 - 👯 I’m looking to collaborate on Sporty Box android app.
+- 🤔 I’m looking for help with anything that is needed.
+- 
  
  
 
