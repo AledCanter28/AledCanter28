@@ -6,7 +6,7 @@ Name is Aled Canter
 - 💬 Ask me about whatever you need.
 - Here is an example video we use for our platform.
 - https://www.youtube.com/watch?v=um5_gT4L4O0
-- 
+- ![This is an image] https://www.google.co.uk/search?q=brave+cf+mma&hl=en&tbm=isch&sxsrf=ALiCzsbBlgyHsde8XSyKPhgtXwV4474t0g%3A1666647025991&source=hp&biw=1280&bih=601&ei=8QNXY92AOseFhbIP7u-l6AU&iflsig=AJiK0e8AAAAAY1cSAULnjNs1QtdiwqV05eQhilN2wJXV&ved=0ahUKEwidvcr_5_n6AhXHQkEAHe53CV0Q4dUDCAc&uact=5&oq=brave+cf+mma&gs_lcp=CgNpbWcQAzIHCAAQgAQQGDoECCMQJzoICAAQgAQQsQM6CAgAELEDEIMBOgcIABCABBADOgUIABCABDoLCAAQgAQQsQMQgwE6BggAEAgQHjoECAAQHlAAWNUOYPUPaABwAHgAgAFEiAGSBZIBAjEymAEAoAEBqgELZ3dzLXdpei1pbWc&sclient=img#imgrc=8rBpqbCZi9ahVM
  
  
 
