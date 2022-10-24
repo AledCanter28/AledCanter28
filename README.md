@@ -1,5 +1,11 @@
 ### Hi there 👋
-Name 
+Name is Aled Canter
+🔭 I’m currently working on Sporty Box application
+ 👯 I’m looking to collaborate on Sporty Box android app.
+ 
+ 
+
+
 <!--
 **AledCanter28/AledCanter28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
