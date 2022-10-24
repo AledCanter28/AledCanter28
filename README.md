@@ -4,6 +4,8 @@ Name is Aled Canter
 - 👯 I’m looking to collaborate on Sporty Box android app.
 - 🤔 I’m looking for help with anything that is needed.
 - 💬 Ask me about whatever you need.
+- Here is an example video we use for our platform.
+- https://www.youtube.com/watch?v=um5_gT4L4O0
 - 
  
  
