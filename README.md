@@ -1,5 +1,6 @@
 ### Hi there 👋
-Name is Aled Canter
+- Name is Aled Canter
+- Here is my Github account on where I have desgined this page.
 - 🔭 I’m currently working on Sporty Box application.
 - 👯 I’m looking to collaborate on Sporty Box android app.
 - 🤔 I’m looking for help with anything that is needed.
